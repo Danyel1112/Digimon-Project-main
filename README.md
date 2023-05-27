@@ -16,4 +16,4 @@ To use phpmyadmin you have to install apache and put the src of phpmyadmin in ro
 
 
 
-Discord ==>>  https://discord.gg/7QjbWMUaZW
+Discord ==>>  DaN#0198
